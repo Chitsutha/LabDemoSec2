@@ -1,4 +1,4 @@
 Hello World
 It works my machine.
 
-Hello from master.
+This text is added after conflict is solved.
