@@ -1,2 +1,4 @@
 Hello World
 It works my machine.
+
+Hello from master.
